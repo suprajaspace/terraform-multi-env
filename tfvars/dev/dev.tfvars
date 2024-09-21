@@ -6,3 +6,4 @@ instances = {
 tags = {
     Environment = "dev"
 }
+environment = "dev"
